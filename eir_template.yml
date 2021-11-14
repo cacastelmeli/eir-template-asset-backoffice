@@ -1,0 +1,3 @@
+hooks:
+  - cmd: type
+    path: hooks/type.go
